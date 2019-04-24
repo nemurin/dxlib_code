@@ -1,3 +1,6 @@
-# dxlib_code
-<Souce00.cpp>
-Source00.cppはDXlibのテストコードになっています！まずはこれで動くかどうか確認しましょう
+# DXライブラリを使用したコード群
+- <Souce00.cpp>
+
+Source00.cppはDXlibのテストコードになっています！
+
+まずはこれで動くかどうか確認しましょう
